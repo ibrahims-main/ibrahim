@@ -12,9 +12,10 @@ Here are a few projects I've worked on:
 
 | Project Name   | Description                                  | Link                               |
 |----------------|----------------------------------------------|------------------------------------|
-| **UseEnv**     | A project that helps manage environment variables easily. | [View Project](https://github.com/yourusername/UseEnv) |
-| **LogMate**    | A logging utility for applications.         | [View Project](https://github.com/yourusername/LogMate) |
-| **SecureCrypt**| A secure encryption tool for data protection. | [View Project](https://github.com/yourusername/SecureCrypt) |
+| **UseEnv**     | A project that helps manage environment variables easily. | [View Project](https://github.com/ibrahims-main/UseEnv) |
+| **LogMate**    | A logging utility for applications.         | [View Project](https://github.com/ibrahims-main/LogMate) |
+| **SecureCrypt**| A secure encryption tool for data protection. | [View Project](https://github.com/ibrahims-main/SecureCrypt) |
+| **Cheer**      | My Personal Discord Servers Bot :) | [View Project](https://github.com/ibrahims-main/Cheer) |
 
 ## 🤔 How to Reach Me
 Feel free to connect with me:
