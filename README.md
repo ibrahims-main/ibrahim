@@ -16,6 +16,7 @@ Here are a few projects I've worked on:
 | **LogMate**    | A logging utility for applications.         | [View Project](https://github.com/ibrahims-main/LogMate) |
 | **SecureCrypt**| A secure encryption tool for data protection. | [View Project](https://github.com/ibrahims-main/SecureCrypt) |
 | **Cheer**      | My Personal Discord Servers Bot :) | [View Project](https://github.com/ibrahims-main/Cheer) |
+| **QuickTickets**      | A Discord Library which makes making Ticketing System for your bot easier :) | [View Project](https://github.com/ibrahims-main/QuickTickets) |
 
 ## 🤔 How to Reach Me
 Feel free to connect with me:
