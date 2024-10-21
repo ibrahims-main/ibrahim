@@ -1,6 +1,6 @@
 # Hello, I'm Ibrahim! 👋
 
-I'm a 13-year-old aspiring C++, Python, Typescript programmer. I love coding, and I'm always looking for new challenges and projects to work on. 
+I'm a 13-year-old aspiring programmer. I love coding, and I'm always looking for new challenges and projects to work on. 
 
 ## 🌱 Currently Learning
 - Physics and Chemistry lmfao what u thought
@@ -16,7 +16,7 @@ Here are a few projects I've worked on:
 | **LogMate**    | A logging utility for applications.         | [View Project](https://github.com/ibrahims-main/LogMate) |
 | **SecureCrypt**| A secure encryption tool for data protection. | [View Project](https://github.com/ibrahims-main/SecureCrypt) |
 | **Cheer**      | My Personal Discord Servers Bot :) | [View Project](https://github.com/ibrahims-main/Cheer) |
-| **QuickTickets**      | A Discord Library which makes making Ticketing System for your bot easier :) | [View Project](https://github.com/ibrahims-main/QuickTickets) |
+| **QuickTicket**      | A Discord Library which makes making Ticketing System for your bot easier :) | [View Project](https://github.com/ibrahims-main/QuickTicket) |
 
 ## 🤔 How to Reach Me
 Feel free to connect with me:
