@@ -28,6 +28,7 @@ Feel free to connect with me:
 - C++
 - Python
 - JavaScript
+- TypeScript
 - HTML
 - CSS
 - React
